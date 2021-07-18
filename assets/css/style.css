@@ -297,7 +297,9 @@
     #phone{
         display: flex;
     }
-
+    .container__aside{
+        flex-wrap: wrap;
+    }
     .article img{
         width: 100%;
     }
