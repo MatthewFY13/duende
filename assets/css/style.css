@@ -33,6 +33,12 @@
 .header__logo img{
     width: 60px;
 }
+.header__logo .header_title{
+    font-size: 18px;
+    font-family: 'Roboto';
+    color: #A4EEB9;
+    margin-left: 38px;
+}
 .menu{
     height: 80px;
 }
