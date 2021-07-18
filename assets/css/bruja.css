@@ -136,36 +136,6 @@
     max-width: 1000px;
     margin: auto;
 }
-.container__footer .footer .footer__social{
-    display: flex;
-    justify-content: center;
-    margin-top: 10px;
-}
-.container__footer .footer .footer__social .icon__social__footer{
-    font-size: 18px;
-    margin: 20px;
-    background: #efefef;
-    width: 50px;
-    height: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 100%;
-    color: #a2a2a2;
-}
-
-.footer .footer__social .fa-facebook-f:hover{
-    color: #fff;
-    background: #41579A;
-}
-.footer .footer__social .fa-whatsapp:hover{
-    color: #fff;
-    background: #00bb2d;
-}
-.footer .footer__social .fa-blogger:hover{
-    color: #fff;
-    background: #EF7631;
-}
 .container__footer .footer__title{
     text-align: center;
     margin-top: 10px;
