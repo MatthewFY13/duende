@@ -39,6 +39,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    display: none;
+}
+.header .container__title h1{
+    text-shadow: 2px 2px 2px #C5F9BA;
 }
 .menu{
     height: 80px;
@@ -278,6 +282,7 @@
         width: 100%;
         font-size: 9px;
         margin-right: 40px;
+        display: flex;
     }
     .container__aside{
         flex-wrap: wrap;
