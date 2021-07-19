@@ -4,3 +4,7 @@ function menu__phone(){
     document.getElementById("phone__move").classList.toggle('move__container');
     document.getElementById("menu__phone").classList.toggle('menu__right');
 }
+
+document.oncontextmenu = function (e) {
+    e.preventDefault();
+}
