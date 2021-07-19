@@ -158,8 +158,9 @@
 .container__aside .aside{
     width: 200px;
     border-radius: 10px;
-    margin-left: 40px;
+    margin-left: 10px;
     overflow: hidden;
+    margin-top: 30px;
     margin-bottom: 40px;
     box-shadow: 0 1px 6px 1px rgba(0, 0, 0, .1);
 }
