@@ -99,6 +99,7 @@
     font-family: 'Roboto';
     position: relative;
     overflow: hidden;
+    box-shadow: 0 1px 6px 1px rgba(0, 0, 0, .1);
 }
 
 .article img{
@@ -123,9 +124,10 @@
 .container__aside .aside{
     width: 200px;
     border-radius: 10px;
-    margin-left: 10px;
+    margin-left: 40px;
     overflow: hidden;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
+    box-shadow: 0 1px 6px 1px rgba(0, 0, 0, .1);
 }
 .container__aside .aside img{
     width: 100%;
@@ -134,6 +136,7 @@
     margin-top: 10px;
     padding: 0px 10px;
     font-size: 20px;
+    margin-bottom: 10px;
 }
 
 /* Encabezado del sitio web */
