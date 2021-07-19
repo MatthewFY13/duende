@@ -149,6 +149,7 @@
     width: 400px;
     display: flex;
     margin: auto;
+    margin-bottom: 30px;
 }
 .article .article__title{
     margin-top: -10px;
